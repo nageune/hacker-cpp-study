@@ -28,7 +28,6 @@ int main() {
   for (int i = 0; i < n; i++)
     cin >> num[i];
   for (char c : str) {
-    
     if (c == '+') {
       double a = s.top();
       s.pop();
