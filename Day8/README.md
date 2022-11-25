@@ -10,7 +10,7 @@
 ### 예제1
 후위 표기식을 입력받고 계산 결과를 출력하는 프로그램
 #### 문제
-백준 [1935번 문제](https://www.acmicpc.net/problem/1935)
+백준 [1935번](https://www.acmicpc.net/problem/1935) 문제
 #### 풀이
 ```c++
 #include <iostream>
@@ -66,7 +66,7 @@ int main() {
 ### 예제2
 중위 표기식을 입력받고 후위 표기식으로 변환하여 출력하는 프로그램
 #### 문제
-백준 [1918번 문제](https://www.acmicpc.net/problem/1918)
+백준 [1918번](https://www.acmicpc.net/problem/1918) 문제
 #### 풀이
 ```c++
 #include <iostream>
